@@ -13,7 +13,7 @@ main{
   font-size: 1.1em;
 }
 footer{
-  background-color: rgb(163, 163, 163);
+  background-color: lightgrey;
 }
 li{
   display: inline-block;
